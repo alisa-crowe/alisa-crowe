@@ -1,16 +1,20 @@
-## Hi there 👋
+# Alisa Crowe
 
-<!--
-**alisa-crowe/alisa-crowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Big Data Analytics
+B.S. Mathematics, Concentration in Data Science  
+San Diego, CA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a second-year M.S. Big Data Analytics student with a background in mathematics and experience in large-scale data analysis, machine learning, and NLP. My work focuses on experimental design, performance evaluation, and translating analytical insights into practical solutions.
+
+I have experience working with high-volume datasets, developing machine learning models, and benchmarking model performance using rigorous evaluation metrics.
+
+---
+
+## Contact
+
+LinkedIn: [https://www.linkedin.com/in/alisacrowe/]  
+Email: alisacrowe5@gmail.com
