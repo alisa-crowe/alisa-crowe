@@ -1,6 +1,8 @@
 # Alisa Crowe
 
 M.S. Big Data Analytics
+
+
 B.S. Mathematics, Concentration in Data Science  
 San Diego, CA  
 
